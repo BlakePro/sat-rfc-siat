@@ -1,13 +1,13 @@
 # Cédula Fiscal SAT
 ###### sat-rfc-siat
-Extrae la información necesaria de una persona física o moral para utilizarlo en una factura 4.0 mediante la cédula fiscal del SAT / SIAT
+Extrae la información necesaria de una persona física o moral para utilizarlo en una factura 4.0 de acuerdo la cédula fiscal del SAT / SIAT
 
 > Puedes ejecutarlo directamente en:
 > - Frontend
 > - Backend (importa antes npm i node-fetch)
 > - En la consola de tu navegador
 
-## ⚡️ Instalación e inicio rápido
+## ⚡️ Instalación (inicio rápido)
   - Importa o copia directamente la función del archivo `siat.js`
   - Llama la función asíncrona de siat
 ```js
@@ -34,8 +34,7 @@ new Promise(async (resolve, reject) => {
     "id_cif": "",
     "nombre_fiscal": "",
     "correo_electronico": "",
-    "regimenes": [
-    ],
+    "regimenes": [],
     "regimen_de_capital": "",
     "fecha_de_constitucion": "",
     "situacion_del_contribuyente": "",
