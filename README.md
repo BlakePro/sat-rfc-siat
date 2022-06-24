@@ -3,9 +3,9 @@
 Extrae la información necesaria de una persona física o moral para utilizarlo en una factura 4.0 mediante la cédula fiscal del SAT / SIAT
 
 > Puedes ejecutarlo directamente en:
- - Frontend
- - Backend (importa antes npm i node-fetch)
- - En la consola de tu navegador
+> - Frontend
+> - Backend (importa antes npm i node-fetch)
+> - En la consola de tu navegador
 
 ## ⚡️ Instalación e inicio rápido
   - Importa o copia directamente la función del archivo `siat.js`
